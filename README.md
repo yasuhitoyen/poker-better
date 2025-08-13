@@ -1,6 +1,6 @@
 # Poker Better — Deep Q-Learning Texas Hold'em Agent
 
-![Gameplay Screenshot](static/gameplay.png)
+![Gameplay Screenshot](PokerBetter/static/gameplay.png)
 
 ## Overview
 This project implements a **Texas Hold'em No Limit** poker agent trained with **Deep Q-Learning (DQL)** using the [PettingZoo](https://pettingzoo.farama.org/) multi-agent environment.  
